@@ -1,0 +1,31 @@
+What Will You Learn?
+
+Data Handling in Bioinformatics: Manage large-scale molecular and proteomics datasets.
+Specialized Modeling: Explore how graph-based or deep learning methods handle molecular structures.
+Feature Engineering: Learn about fingerprints, descriptors, and embedding techniques for molecules.
+Domain Knowledge Integration: Understand basic chemistry/biology principles that influence drug design.
+Skills Needed to Execute the Project
+
+Familiarity with Python and ML frameworks
+Basic knowledge of chemistry or willingness to learn key biological concepts
+Understanding of specialized libraries for bioinformatics (e.g., RDKit)
+Experience with data preprocessing and scientific computing
+
+Tools and Tech Stack Needed ???
+
+Tool                                           Description
+
+Python	   -Core language for data processing and ML experimentation.
+RDKit     -	Library to handle molecular structures and perform cheminformatics computations.
+TensorFlow / PyTorch	  - Platforms to build advanced neural networks (e.g., graph neural networks).
+Pandas & NumPy	    - Manage and manipulate large bioinformatics datasets.
+Jupyter Notebook	  - Offers an iterative environment to fine-tune model parameters.
+
+
+Real-World Examples Where the Project Can Be Used???
+
+Example                                               Description
+
+Pharmaceutical R&D	     - Speeds up the search for new drug candidates.
+Academic Research	       - Aids in exploring disease pathways and molecular interactions.
+Healthcare Startups	     - Accelerates precision medicine solutions for personalized treatments.
