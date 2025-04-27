@@ -1,4 +1,6 @@
 # PROJECT-MAHA
+MAHA=Machine Automated Healthcare Assistent
+
 AI for Social Good: A Drug Discovery Project
 
 this project has been deflected in some issue in core program of some issue to make over 
